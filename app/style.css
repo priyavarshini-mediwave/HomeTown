@@ -43,7 +43,7 @@ body {
 }
 #pop {
   text-align: center;
-  color: palevioletred;
+  color: rgb(56, 1, 1)
   margin-left: -170px;
   font-size: large;
 }
@@ -70,7 +70,7 @@ body {
 #main {
   border: 5px double purple;
   width: 100%;
-  background-color: rgb(169, 228, 169);
+  background-image: linear-gradient(to right, green, rgb(135, 172, 135), white);
 }
 #imgauro {
   border-radius: 10px 10px;
