@@ -4,20 +4,70 @@
   height: 300px;
   width: 300px;
   margin-left: 650px;
+  background-color: green;
 }
 #p1 {
-  color: rgba(97, 30, 30, 0.87);
-  box-shadow: 2px 3px 5px;
+  color: rgb(114, 27, 27);
+  box-shadow: 2px 3px 5px 5px;
   width: 180px;
   text-align: center;
   margin-left: -97px;
 }
 #p2 {
   color: rgb(114, 27, 27);
-  box-shadow: 2px 3px 5px;
+  box-shadow: 2px 3px 5px 5px;
   width: 180px;
   text-align: center;
   margin-left: 281px;
   margin-right: 80px;
   margin-top: 150px;
+}
+#img1 {
+  border-radius: 10px 10px;
+  width: 246px;
+  margin-left: 77px;
+  margin-top: 7px;
+  padding-right: 5px;
+}
+#img2 {
+  width: 246px;
+  margin-top: 7px;
+  margin-right: -407px;
+  height: 177px;
+  margin-left: 25px;
+}
+#pop {
+  text-align: center;
+  color: palevioletred;
+  margin-left: -170px;
+}
+#div2 {
+  display: flex;
+  justify-content: space-around;
+}
+#beach {
+  margin-top: 5px;
+  width: 319px;
+  margin-right: 100px;
+}
+.card {
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px double darkcyan;
+  background-color: rgb(153, 128, 91);
+  text-align: center;
+  width: 305px;
+  display: flex;
+  justify-content: space-around;
+}
+#main {
+  border: 5px double purple;
+  width: 100%;
+  background-color: rgb(181, 231, 181);
+}
+#imgauro {
+  width: 246px;
+  margin-top: 7px;
+  margin-left: 25px;
 }
